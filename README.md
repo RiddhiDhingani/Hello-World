@@ -1,2 +1,2 @@
 # Hello-World
-Just repository
+This file contains intial learning modules for AngularJs
